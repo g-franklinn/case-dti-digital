@@ -27,9 +27,11 @@ case-dti-digital/
 │   │   ├── questao3a.py
 │   │   └── questao3b.py
 │   └── sql/                # Soluções em SQL
-│       ├── questao1a.sql
-│       ├── questao1b.sql
-│       └── questao1c.sql
+│   |    ├── questao1a.sql
+│   |    ├── questao1b.sql
+│   |    └── questao1c.sql
+│   └── git/                # Soluções de GIT
+│       └── README.md
 ├── tests/
 │   ├── test_questao2a.py  # Testes unitários para a questão 2a
 │   └── test_questao2b.py  # Testes unitários para a questão 2b
